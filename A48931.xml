@@ -1,0 +1,556 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The double eternity, or, The inevitable choice</title>
+            <title>Votum candidium vivat rex. English. Selections.</title>
+            <author>Newport, Maurice, 1611-1687.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48931</idno>
+            <idno type="STC">Wing L27B</idno>
+            <idno type="STC">ESTC R41359</idno>
+            <idno type="EEBO-CITATION">31355175</idno>
+            <idno type="OCLC">ocm 31355175</idno>
+            <idno type="VID">110335</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48931)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110335)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1742:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The double eternity, or, The inevitable choice</title>
+                  <title>Votum candidium vivat rex. English. Selections.</title>
+                  <author>Newport, Maurice, 1611-1687.</author>
+                  <author>J. L.</author>
+               </titleStmt>
+               <extent>[6], 9 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by M. Clark for the Author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Translation of part of Maurice Newport's V̀otum candidium vivat rex.' Cf. preface and DNB.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110335:1" rendition="simple:additions"/>
+            <p>THE Double Eternity, OR, <hi>The Inevitable Choice.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Deut. xxx. 19.</hi>
+               </bibl>
+               <p>I have ſet before you life and death, bleſſing and curſing, therefore chooſe life.</p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>M. Clark</hi> for the Author. 1695.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:110335:2" rendition="simple:additions"/>
+            <pb facs="tcp:110335:2"/>
+            <head>To the Honoured <hi>Madam</hi> GULDEFORD OF <hi>HEMSTED</hi> in <hi>KENT.</hi>
+            </head>
+            <opener>
+               <salute>Honoured Madam,</salute>
+            </opener>
+            <p>IT having been your daily Practice for theſe many Years, to ſet apart a conſiderable time for Meditation on the Joys of Heaven and Pains of Hell, which makes you fly the Sweets which end in ſo much Bitterneſs, and go cheer<g ref="char:EOLhyphen"/>fully the hard way which leads to ſuch endleſs Happineſs: A Meditation of this twofold Eſtate will be no unwelcom Preſent; Tho your Ladyſhip has better Thoughts of your own, and better In<g ref="char:EOLhyphen"/>ſpirations than Poets are acquainted with.</p>
+            <p>That, I know, in another would leſſen the Value of the Preſent, but in your Ladyſhip it in<g ref="char:EOLhyphen"/>creaſes it; for having improv'd the Thoughts, and mix'd with them Inſpirations, you kindly believe the Author has more Part in them than he has, and humbly believe your Self to have leſs part in them than you have; for 'tis the Property of true Hu<g ref="char:EOLhyphen"/>mility to build ſo high and lay the Foundations ſo low, that there is no diſtinct ſeeing from the bottom to the top.</p>
+            <p>This is the Advantage thoſe Writers have which fall into your Hands, and 'tis ſuch, that, conſidering it, I fear my little Preſent will ſeem made to your Ladyſhip rather for Self-ends than
+<pb facs="tcp:110335:3"/>to make any return for the many great Favors I ſtand Indebted for. Yet that was the firſt thing in my Thoughts, when I propos'd to my ſelf this ſmall Addreſs; and ſhould be the laſt, if this little Book of mine were but of Worth enough: But as it is, Honoured Madam, be pleas'd but to ac<g ref="char:EOLhyphen"/>cept of it, and I am more indebted than before.</p>
+            <closer>
+               <salute>Honoured Madam,</salute> 
+               <signed>Your Ladyſhips Moſt humble Servant <hi>J. L.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:110335:3"/>
+            <head>THE PREFACE TO THE READER.</head>
+            <p>THIS Deſcription of Heaven and Hell, is a part of Mr. <hi>Niewport</hi>'s Poem Dedicated to King <hi>Charles II.</hi> under the Title of <hi>Vivat Rex;</hi> And it being capable, with Alteration of a World or two, to ſtand by it ſelf, and make a Title of its own, I have made it Engliſh, and Chriſtned it with the Name of the <hi>Double Eternity.</hi>
+            </p>
+            <p>The Purity of the Latin, and the Excellency of the Thoughts entic'd me to tranſlate it, and the ſhortneſs of it took off the fear of overmuch Trouble in the Work, and the <g ref="char:V">Ʋ</g>ſefulneſs of the Subject made me willing to Publiſh it. A Man may read it that would not read a Sermon; and ſeeing in it the Rewards of Heaven and the Pains of Hell better repreſented to him than ever he repreſented them to himſelf, and conformable to the Word of God, he may come to think it is no great buſineſs to keep Ten Commandments, to have ſo much for keeping them; and think it too much for a little more of the Fleſh and the World to take up with the Devil at laſt, and ſo be converted in Verſe, who had con<g ref="char:EOLhyphen"/>tinued on wickedly in Proſe.</p>
+            <p>You may father ſuppoſe, if you think it is Püritanical to pretend nothing but Godlineſs without mixture, that Va<g ref="char:EOLhyphen"/>nity had a helping hand in the Preſs, and I wiſh Profit had been there too; But I find the Prophet <hi>Iſaiah</hi> himſelf
+<pb facs="tcp:110335:4"/>having things of this nature of ſell, was forc'd to cry out, <hi>Come ye and buy without money, and without Price;</hi> which makes me expect but a very indifferent Market: However take it and make the beſt of it, and ſo farewel.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:110335:4"/>
+            <head>THE Double Eternity.</head>
+            <lg>
+               <l>LOST in a Storm and wilder'd in the Night,</l>
+               <l>Long time I ſtretch'd my Eyes with uſeleſs Sight;</l>
+               <l>At length the Clouds diſperſe, the Heaven's clear</l>
+               <l>And Stars, the lovely night-watch, Stars appear,</l>
+               <l>The only comfort then, the only there.</l>
+            </lg>
+            <lg>
+               <l>Here taking Heart, I caſt about my Eyes,</l>
+               <l>And view'd the opening beauties of the Skies;</l>
+               <l>Fix'd Stars and Planets at their liberty:</l>
+               <l>But, oh, the diſtance of thoſe Lights from me!</l>
+               <l>Yet they (faint Lights) move in a Sphere ſo low,</l>
+               <l>That leſs to Heaven than to Earth they ſhow.</l>
+               <l>The total ſum of Hope and heap of Bliſs</l>
+               <l>Farther in Heavens inmoſt Region is.</l>
+               <l>That part goes backward a vaſt length of place.</l>
+               <l>Who'll wing theſe feet that move ſo ſlow a pace?</l>
+               <l>Or who'll my ſhoulders wing? that I may fly</l>
+               <l>Above the Clouds, above the azure Sky;</l>
+               <l>Above the Region of the Moon and Fire,</l>
+               <l>And paſs the diſtant Lights which I admire:</l>
+               <l>And at th' Empyreal Palace ſet me down,</l>
+               <l>Where Heav'ns Darling (Happineſs) doth crown</l>
+               <l>Mortals immortal made, and to the Poor</l>
+               <l>Unlocks the Heavens everlaſting Store.</l>
+               <l>Vertue alone this lump of Earth can raiſe,</l>
+               <l>And find us Wings to paſs thoſe untrod ways.</l>
+            </lg>
+            <lg>
+               <l>We leave our native Soil, Houſe, Nuptial ties,</l>
+               <l>And follow father leading Avarice.</l>
+               <l>Then Stars of our bright Hemiſphere are ſeen,</l>
+               <l>And that which once the utmoſt Bounds has been,</l>
+               <pb n="2" facs="tcp:110335:5"/>
+               <l>(Th' <hi>Heſperian</hi> Garden and the <hi>Caſpian</hi> Sea,</l>
+               <l>And <hi>Colchos</hi> whither <hi>Jaſon</hi>'s Ship made way)</l>
+               <l>Is now thought nigh. Our firſt Step is their laſt;</l>
+               <l>The <hi>Streights,</hi> as Suburb Journeys, now are paſt,</l>
+               <l>Where trav'ling <hi>Hercules</hi> himſelf ſtuck faſt;</l>
+               <l>Where the Line equally the year divides,</l>
+               <l>And right between each Hemiſphere decides:</l>
+               <l>Where the Eaſt-winds and Weſt-winds are at home,</l>
+               <l>And in their Native <hi>Indies</hi> freely roam;</l>
+               <l>Where the North-winds about the Bear-ſtar blow;</l>
+               <l>Their fierceſt ſtorms of Rain, and Hail, and Snow;</l>
+               <l>And where the South-winds no leſs fury ſhow.</l>
+               <l>(<hi>Europe</hi>'s a Priſon) paſt all Bounds of old.</l>
+               <l>Thro' unknown Heats, unhabitable Cold;</l>
+               <l>Tho Rocks and Sands forbid and roating Sea;</l>
+               <l>We to the Winds our vows and ſails diſplay,</l>
+               <l>But mind not Heavens Gifts or Heavens way.</l>
+               <l>Ignoble Souls! The noble Seed of God,</l>
+               <l>Mad Avarice debaſes to a Clod;</l>
+               <l>And yet our greedy thirſty Avarice,</l>
+               <l>No Earth, no Sea of Gold can it ſuffice.</l>
+               <l>The World can't hold Mans Heart, that holdeth all;</l>
+               <l>The great World is too little for the ſmall:</l>
+               <l>And ſtill the Self-diſſatisfyed Mind</l>
+               <l>Labours for Breath and burns for what's behind.</l>
+               <l>Why ſurely then for greater things 'tis made,</l>
+               <l>And there is ſomething greater to be had.</l>
+               <l>O Man what is't? Lift up thy mind, and dare</l>
+               <l>To caſt off Earthineſs and ſordid Care.</l>
+               <l>Wo to the Miſer, on his Breaſt he crawls,</l>
+               <l>For Earth and Dirt his greedy Hunger calls;</l>
+               <l>Curſt like the Serpent which deceived <hi>Eve.</hi>
+               </l>
+               <l>But thou whoſe meaneſt part's from Earth, be n't Slave</l>
+               <l>To that, but upwards to the Heavens ſtrive,</l>
+               <l>From whence thou doſt thy chiefeſt part derive,</l>
+               <l>And look upon them as thy native Home,</l>
+               <l>And form thy ſelf as does thy ſelf become.</l>
+            </lg>
+            <lg>
+               <l>O high large Dwelling! higheſt Seat of Peace,</l>
+               <l>Fulneſs of Bliſs where all our Wiſhes ceaſe.</l>
+               <pb n="3" facs="tcp:110335:5"/>
+               <l>The Preſence-Chamber of the Thunderer;</l>
+               <l>But Thunder-free, and free from Threat or Ire.</l>
+               <l>Death's fatal Sythe and Dart which fill with Fear</l>
+               <l>The ſublunary World, fright no Man there:</l>
+               <l>No Sighs diſturb that Air, no Tears their Joy,</l>
+               <l>No Gall th' immortal Sweets that never cloy.</l>
+               <l>Beſides, the glorious Body ſhines ſo bright,</l>
+               <l>That all its Rayment are its Rays of light;</l>
+               <l>A kind of Angel-Dreſs: and Angels wings</l>
+               <l>Move with a heav'nly ſwiftneſs earthly Things.</l>
+               <l>Rain, Hail, Snow hurts them not, nor Dog-days heat,</l>
+               <l>Nor deadly Weapons any Fear create:</l>
+               <l>And Bodies gently ſlide, like Inſpiration,</l>
+               <l>Thorough each other without ſeparation;</l>
+               <l>Nor ſtrength of brazen Bars can ſtop the way,</l>
+               <l>Nor ſolid Rocks the ſolid Body ſtay.</l>
+            </lg>
+            <lg>
+               <l>Had I a Thouſand Tongues to praiſe the Place,</l>
+               <l>What were a Thouſand Tongues in ſuch a caſe?</l>
+               <l>Or were <hi>Apelles</hi> hand to labour here,</l>
+               <l>How little would his matchleſs Art appear?</l>
+               <l>Now becauſe glitt'ring Jewels, Gold and Plate</l>
+               <l>Make up the little Pride of Man's poor ſtate,</l>
+               <l>To Heaven both the <hi>Indies</hi> ſtrait muſt go;</l>
+               <l>As if in Heaven Gold would make a ſhow.</l>
+               <l>Thus we tranſport from Earth the golden Ore,</l>
+               <l>To make the Stars, and pave th' immortal Floor;</l>
+               <l>And Jaſpers, Beryls, Rubies hence convey,</l>
+               <l>To make the Frontiſpiece of Heaven gay.</l>
+               <l>But, oh, thou better Nature, all that's fine</l>
+               <l>In Gold and Gems no Riches are of thine;</l>
+               <l>Thy Treaſures, hid from Senſe, nor Tongue nor Thought</l>
+               <l>Can tell; we ſpeak but what by Senſe is taught:</l>
+               <l>Beaſts only know the Dainties of the Field,</l>
+               <l>Which the beſt Sallads to their Palats yield:</l>
+               <l>So what we ſee and feel we only know,</l>
+               <l>So far we can and cannot farther go.</l>
+               <l>Oh, what a Maſter-piece muſt Heaven be,</l>
+               <l>Where God deſign'd from all Eternity</l>
+               <l>To have his Art, his Riches, his large Breaſt,</l>
+               <l>And the All-Maker in the Work confeſt.</l>
+            </lg>
+            <pb n="4" facs="tcp:110335:6"/>
+            <lg>
+               <l>
+                  <note place="margin">Eſſential Happineſs.</note>But, oh, what Torrent's that which in ſuch ſtreams</l>
+               <l>From God's Throne overflows to the extremes</l>
+               <l>Of Heaven! Say, ye Bleſt, if we may know,</l>
+               <l>What Torrent's that? for it is fam'd below</l>
+               <l>As far as Earth; as far as Hell, which made</l>
+               <l>The burning Glutton hope a little Aid;</l>
+               <l>But 'twould not be; the burning Glutton cry'd</l>
+               <l>For one Cold Drop, and one Cold Drop's deny'd.</l>
+               <l>A Torrent 'tis, but of an endleſs Courſe:</l>
+               <l>That ſource of Life, that everlaſting Source</l>
+               <l>Does to eternal Streams new Stores ſupply:</l>
+               <l>Who Drinks thereof Drinks in Satiety;</l>
+               <l>Quenches his Thirſt, and yet is ever Dry;</l>
+               <l>Dry without trouble, full, yet never cloy'd;</l>
+               <l>Wiſh and Poſſeſſion is at once enjoy'd.</l>
+            </lg>
+            <lg>
+               <l>Nigh to this Torrent a rich Beauty lyes,</l>
+               <l>Of charming Form and Features, and her Eyes</l>
+               <l>Are brighter than the Sun: Her Angels call</l>
+               <l>By the ſweet Names of <hi>Life Celeſtial.</hi>
+               </l>
+               <l>
+                  <hi>Sincere Delight,</hi> and <hi>Reſt Secure,</hi> and <hi>Peace</hi>
+               </l>
+               <l>With ſoft Breaſts open, and with Virgin face,</l>
+               <l>Are of her Train; and <hi>Bleſt Eternity,</hi>
+               </l>
+               <l>Known by her Crown of endleſs Majeſty,</l>
+               <l>And by the Dreſs which circles round her Hair,</l>
+               <l>Of Heavens brighteſt Die, and richeſt Wear.</l>
+               <l>Theſe Siſter-Beauties fold in her Embrace,</l>
+               <l>And all together joyn to bleſs the Place.</l>
+            </lg>
+            <lg>
+               <l>Hence, as 'tis ſaid, hence from this Life Divine,</l>
+               <l>Mankind and Angels take their Origine:</l>
+               <l>Angels, pure Spirits, free from all allay;</l>
+               <l>Men of mix'd nature, Spirit half, half Clay.</l>
+               <l>Hence the firſt Draughts of Life, they ſay, are ta'en;</l>
+               <l>And when Heaven calls upon us for't again,</l>
+               <l>Back to its Fountain and firſt Cauſe it goes,</l>
+               <l>If no Crime ſtop, no Foulneſs interpoſe;</l>
+               <l>Then fix'd on God immoveable we gaze,</l>
+               <l>His Face Divine darts on us piercing Rays;</l>
+               <l>Which ſo reflect Gods Likeneſs back, that we</l>
+               <l>Turn living Image of the Deity.</l>
+               <pb n="5" facs="tcp:110335:6"/>
+               <l>The Rainbow from the Sun receives its light,</l>
+               <l>The Sun's kind Aſpect makes it look ſo bright;</l>
+               <l>But being made of Clouds it melts away:</l>
+               <l>So God, the Angels bright Eternal day,</l>
+               <l>Here in this gloomy Place new Light creates,</l>
+               <l>And with it all our Darkneſs diſſipates;</l>
+               <l>And Heavens Beauties ſets in mortal ſight,</l>
+               <l>Inflames the Heart, and fills it with delight:</l>
+               <l>But being Sinners miſts and vapours riſe,</l>
+               <l>And ſtrait wet Sorrow ſhowers at our Eyes.</l>
+               <l>But Heaven knows no Griefs, no Sin is there,</l>
+               <l>No Earth, no Vapours, Clouds or Rain to fear.</l>
+               <l>According to our little skill we try,</l>
+               <l>In mind to copy the Divinity;</l>
+               <l>But Senſe with earthy Colours and falſe Dyes,</l>
+               <l>Impoſes on the Mind as well as Eyes:</l>
+               <l>But when the darkneſs of that lump of Clay,</l>
+               <l>Which ſhades Mortality is drove away</l>
+               <l>By Light Divine, Gods Beauties then appear,</l>
+               <l>Juſt as in the Original they are:</l>
+               <l>'Tis not his Likeneſs, 'tis his very Face</l>
+               <l>Seen in it ſelf, not in the Looking-glaſs.</l>
+               <l>Hence Love, Love equal to the lovely Sight,</l>
+               <l>The Good it ſees, with infinite delight</l>
+               <l>Embraces, holds faſt, clings to't, 'till it be</l>
+               <l>Made one with God by mutual Unity.</l>
+            </lg>
+            <lg>
+               <l>God infinitely differs from Mankind,</l>
+               <l>And more, if Man can yet be more behind.</l>
+               <l>For, uncreated Poſſibilities,</l>
+               <l>Innumerable Kinds and Qualities,</l>
+               <l>Which in their Cauſes fertile Womb lay hid,</l>
+               <l>God can bring forth as well as thoſe he did.</l>
+               <l>So many Ranks of things, ſo many Claſſes,</l>
+               <l>And Diſtance infinite, th'Almighty paſſes,</l>
+               <l>And joins us to himſelf; 'tis Love unites;</l>
+               <l>Viſion and Love: O Love! O vaſt Delights!</l>
+               <l>O everlaſting Joys! Torrent of Peace!</l>
+               <l>Heaven of Heavens! Where all Wiſhes ceaſe,</l>
+               <l>Beholding God for ever face to face.</l>
+            </lg>
+            <pb n="6" facs="tcp:110335:7"/>
+            <lg>
+               <l>O Earth-born, down-look'd Creature, where ſo faſt?</l>
+               <l>Are Heavens Treaſures come to this at laſt?</l>
+               <l>Men to the <hi>Indies</hi> run, bid Stars adieu,</l>
+               <l>Leave God for Gold, and Heaven for <hi>Peru,</hi>
+               </l>
+               <l>And they that ſtay at home ſell Heaven too.</l>
+               <l>But ſtand a little; ſtand, and look, and think,</l>
+               <l>Whilſt you have yet a foot upon the Brink:</l>
+               <l>Stand, and look down into the Pit of Hell,</l>
+               <l>Where the dead Sinner and damn'd Angel dwell.</l>
+            </lg>
+            <lg>
+               <l>But look not there for fiery Pools, or Lakes</l>
+               <l>Flowing with Tears, or <hi>Fury's Hair of Snakes,</hi>
+               </l>
+               <l>Or treble Walls, or fam'd <hi>Ixion's Wheel;</hi>
+               </l>
+               <l>(All Fables) there are other Things to feel.</l>
+               <l>Other Fires and Tears there are to fear;</l>
+               <l>Mens guilty Minds are their own Vipers there:</l>
+               <l>God's doom irrevocable walls them in;</l>
+               <l>Eternity, which ever's to begin,</l>
+               <l>Moves in an endleſs round the wheeling Pain,</l>
+               <l>That ever turns, ever returns again.</l>
+               <l>But, oh, the loathſom Dungeon's horrid Night!</l>
+               <l>Was I born to behold the breathing Light</l>
+               <l>Of Heaven, and the Suns bright warming Ray?</l>
+               <l>O pleaſant Sun! Sweet Heaven! Light of Day!</l>
+               <l>O Light thou Mother of Delight! thou Morn</l>
+               <l>Of Gods Creation, and his fair Firſt-born,</l>
+               <l>Whom he loves beſt; whom thou reſembleſt moſt</l>
+               <l>Of all the numerous Created Hoſt.</l>
+               <l>O Light! Nor Light, nor Heaven here is ſeen;</l>
+               <l>It burns: but there's a <note n="*" place="bottom">The Voice of the Lord divides the flames of fire. <hi>Pſ. 28.7.</hi> VVhich is thus interpreted by <hi>Baſilius.</hi>
+                  </note>Voice that comes between</l>
+               <l>The Fire and Flame, and cuts away the Light;</l>
+               <l>Darkneſs burns Hell, and Flames all over Night.</l>
+               <l>In theſe foul depths of Night, theſe Dungeons deep,</l>
+               <l>Full of black Horror guilty Souls ſhall weep,</l>
+               <l>That once neglected Heaven, God, and Grace;</l>
+               <l>And call to mind in vain the better Place:</l>
+               <l>To Self and all things loſt, forſaken quite.</l>
+               <l>And that no Pain be loſt for want of Sight,</l>
+               <l>Darkneſs, to be more cruel, yields her Right.</l>
+               <pb n="7" facs="tcp:110335:7"/>
+               <l>The Fiend that Rules in Chains, ſits on a Throne,</l>
+               <l>Made up of Guilt and great Damnation;</l>
+               <l>King of the Damn'd, and his own Puniſhment.</l>
+               <l>Weak bankrupt, hopeleſs <hi>Fury,</hi> deadly <hi>Want,</hi>
+               </l>
+               <l>And <hi>Fear,</hi> and <hi>Rage</hi> tearing her bloody Jaws,</l>
+               <l>(Foul Guard of Guilt) are all the Guard he has.</l>
+               <l>An ugly Snake, his chiefeſt Cauſe of Woe,</l>
+               <l>Meets Head and Tail and round his Head doth go;</l>
+               <l>His Brows with this ſad Wreath, this Garland's bound;</l>
+               <l>Long Evil folding in an endleſs round.</l>
+               <l>He is all over Pain, no Part is free;</l>
+               <l>And ſo are all the Damn'd as well as he.</l>
+               <l>Does the Gout tear the Feet with raging Pains?<note place="margin">The Pain of Senſe.</note>
+               </l>
+               <l>Does Stone or gnawing Gravel Heat the Reins?</l>
+               <l>The Guts at leaſt or Head is free: But here</l>
+               <l>All Parts complain of Burthens, none can bear.</l>
+               <l>A living Death they live, they live and die</l>
+               <l>Both at a Time, and both Eternally.</l>
+               <l>Each Good the more it laſts the more it grows;</l>
+               <l>And by their laſting too we meaſure Woes.</l>
+               <l>Great Pain is to it ſelf a ſpeedy Cure;</l>
+               <l>The greater 'tis, the leſs it will endure:</l>
+               <l>It can't be great and long, Man has not ſtrength;</l>
+               <l>But Hells vaſt Pains are of an endleſs length.</l>
+               <l>The Fire never kills and never dies,</l>
+               <l>But with it ſelf ever it ſelf ſupplies:</l>
+               <l>Implacable Deſtruction, Torment extreme,</l>
+               <l>Hells worſt of Furies, Gods avenging Flame.</l>
+            </lg>
+            <lg>
+               <l>The Saying's ſtrange,<note place="margin">Mark 6.</note> 
+                  <hi>That every one ſhall be</hi>
+               </l>
+               <l>
+                  <hi>Salted with fire;</hi> Here's the Myſtery;</l>
+               <l>As Salt preſerves, ſo ſhall that Fire do;</l>
+               <l>With Pain preſerving, ſalt and burn them too:</l>
+               <l>That fiery Salt force to the Burnt inſpires,</l>
+               <l>And makes them fire-proof t'eternal Fires.</l>
+               <l>O Pennance, give me Sighs and weeping Eyes!</l>
+               <l>O force of Tears at which Hell-fire dies.</l>
+               <l>But ſee, loſt Soul, whence art thou tumbled down;<note place="margin">The Pain of loſt Happi<g ref="char:EOLhyphen"/>neſs.</note>
+               </l>
+               <l>That Sight in Tears the Eyes ſhall ever drown:</l>
+               <l>The Miniſters of Light ſhall always be</l>
+               <l>The Miniſters of Tears for an Eternity.</l>
+               <pb n="8" facs="tcp:110335:8"/>
+               <l>They ſee the happy Manſions, ſeat of Peace;</l>
+               <l>Bound in Hells Dungeon, clos'd within the Place,</l>
+               <l>Nine times about by Depths that none can paſs:</l>
+               <l>They ſee the bleſſed Angels Station,</l>
+               <l>Fill'd with New-comers from our Plantation:</l>
+               <l>They ſee a joyful numberleſs Embrace;</l>
+               <l>Love preſſing heart to heart, and face to face.</l>
+               <l>But theſe are Sweets enjoy'd by him alone</l>
+               <l>The Book of Life has made a Deniſon</l>
+               <l>Of Heaven: Golden Book! let others be</l>
+               <l>Cry'd up for Beauty, Art, Antiquity;</l>
+               <l>Theſe Vertue poliſh, and eternal Love.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note n="*" place="bottom">The Light of Glory is that ſupernatural Light, neceſſary to raiſe the natural Faculty of the Mind to that ſupernatural Act, the Viſion of God.</note>Not to my Eyes, but Ears that Light above</l>
+               <l>(Which from its <hi>Glory</hi> takes its Price and Name)</l>
+               <l>Has often come, come by the way of Fame.</l>
+               <l>The bright Eaſt ne'er ſuch Glory had to ſhow;</l>
+               <l>And all the Firſt days fertile Light could do,</l>
+               <l>(The Parent of each other glorious Light)</l>
+               <l>It ne'er could bring forth any thing ſo bright;</l>
+               <l>'Tis Gods own Luſtre, that which ſhone about</l>
+               <l>
+                  <hi>Michael</hi> and's Army, fighting 'gainſt the rout</l>
+               <l>Of Rebel Angels: 'tis the Suns bright Ray</l>
+               <l>Which never ſets; that Light which ſhews the way</l>
+               <l>Into the very innermoſt abode,</l>
+               <l>And all the pleaſures and the Sweets of God.</l>
+               <l>But Hell muſt have no ſhare in this; black Smoak,</l>
+               <l>Dark Clouds, thick Steams the Sight of Heaven choke,</l>
+               <l>And Hell more dreadful make: What a Sight</l>
+               <l>Are theſe black Monſters of eternal Night.</l>
+               <l>I dread the Thought on't: Oh, what Looks! what Blows!</l>
+               <l>What biting Serpents to increaſe our Woes!</l>
+               <l>What Fires overſpread the burning Plain!</l>
+               <l>How fertile is the horrid place in Pain!</l>
+               <l>Alas, 'tis more than Horrid: Hence they Groan,</l>
+               <l>Roar out and Rage, and make a diſmal Moan.</l>
+            </lg>
+            <lg>
+               <l>O Sleep, Death's likeneſs, if, as Poets tell,</l>
+               <l>Thou doſt in everlaſting Darkneſs dwell;</l>
+               <l>Upon my Eyes ſhed, from thy charming Rod,</l>
+               <l>Kind Poyſons, <hi>Ladanum</hi> and <hi>Diacode;</hi>
+               </l>
+               <pb n="9" facs="tcp:110335:8"/>
+               <l>And make me loſe my ſelf for one ſhort Wink,</l>
+               <l>And, for a Moment neither feel nor think.</l>
+               <l>If any ſtupifying <hi>Lethe</hi> flows</l>
+               <l>In Hell, amdiſt their thoughtful ſleepleſs Woes;</l>
+               <l>Ah may it waſh my Cares, and make the Pain</l>
+               <l>Leſs tyrannizing, and compoſe my Brain</l>
+               <l>To reſt, that Sleep may ſteal upon my Grief,</l>
+               <l>And Rob me of my ſelf; a welcom Thief.</l>
+               <l>But, oh, no Sleep, no <hi>Lethe</hi> Cares allays,</l>
+               <l>But frightful Objects ruſh in every way</l>
+               <l>Upon the Mind, and weary't night and day.</l>
+               <l>No way to ſhun the hateful Sight they fear,</l>
+               <l>Where e'er they turn their Eyes the Plague is there.</l>
+               <l>Hence comes that Worm, which in their reſtleſs Breaſt,<note place="margin">The Worm of Conſcience.</note>
+               </l>
+               <l>Deep in the Heart and Soul is ſaid to neſt;</l>
+               <l>And gnaws eternally th' immortal Food,</l>
+               <l>And ſucks the everlaſting-waſting Blood;</l>
+               <l>No after-Sighs and Tears do any good.</l>
+               <l>The Gate which open was to all the Crimes</l>
+               <l>Thro' all the Eaſt, Weſt, North and Southern Climes,</l>
+               <l>That Gate is ſhut; with unrelenting hand</l>
+               <l>The Iron hinge is turn'd, and ſo muſt ſtand.</l>
+               <l>No hope! All's gone! Hope is Pain's ſole relief,</l>
+               <l>Either as ſhewing Fruit or end of Grief:</l>
+               <l>Grief holds to that; Where is the Fruit of Woe?</l>
+               <l>Hells Pains are fruitleſs; Where's the end? Round go</l>
+               <l>The wheeling Torments with return of Pain,</l>
+               <l>Still coming round to be endur'd again.</l>
+               <l>Infinite is the heap of Miſery;</l>
+               <l>A maſs of Ills that fill Eternity:</l>
+               <l>The Stars and untold Sands put in one ſum,</l>
+               <l>Are nothing to the Years of Pain to come.</l>
+               <l>Swift Hours ſtand, and lay aſide your Wings,</l>
+               <l>Your Wheels, your reſtleſs Motion, uſeleſs things;</l>
+               <l>Times Race is ended, Heavens Courſe is done,</l>
+               <l>Nor Wheels of Heaven ſtir, nor Wheels of Sun;</l>
+               <l>But the ſwift Wheel of Pain runs as before,</l>
+               <l>Age after Age, and never ſhall give o'er.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
